@@ -1,18 +1,22 @@
 # ⚙️ Bem-vindo(a) ao C# .NET Backend Hub!
 
-Esta organização é dedicada ao estudo e desenvolvimento de projetos em C# .NET, com foco total em **APIs, Sistemas Backend e Arquiteturas Modernas**. [cite_start]Os repositórios aqui representam uma jornada completa, desde os fundamentos da linguagem até a implementação de microsserviços, práticas de DevOps e segurança[cite: 1]. O objetivo é criar um hub centralizado para explorar, aprender e construir soluções robustas e escaláveis com o ecossistema .NET.
+Esta organização é dedicada ao estudo e desenvolvimento de projetos em C# .NET, com foco total em **APIs, Sistemas Backend e Arquiteturas Modernas**. Os repositórios aqui representam uma jornada completa, desde os fundamentos da linguagem até a implementação de microsserviços, práticas de DevOps e segurança. O objetivo é criar um hub centralizado para explorar, aprender e construir soluções robustas e escaláveis com o ecossistema .NET.
 
 ---
 
-### ✨ Foco Principal
+### Foco Principal
 
 Os projetos nesta organização estão divididos nas seguintes áreas de conhecimento:
 
-* [cite_start]**Fundamentos e Lógica de Programação:** Exercícios para solidificar a base em matemática, física e sintaxe de C#[cite: 4, 7, 10].
-* [cite_start]**Desenvolvimento de APIs & Sistemas Backend:** O núcleo da organização, com projetos para a construção de APIs RESTful, acesso a dados e lógica de negócios[cite: 13, 16, 28].
-* [cite_start]**Arquiteturas Avançadas & Integração:** Projetos que exploram microsserviços, mensageria e comunicação entre sistemas distribuídos[cite: 19, 22].
-* [cite_start]**Qualidade, Performance & Segurança:** Foco em testes, otimização de performance, monitoramento e implementação de práticas de segurança essenciais[cite: 25, 31, 34, 37].
-* [cite_start]**DevOps & Boas Práticas:** Automação de pipelines CI/CD, containerização e ferramentas para garantir o ciclo de vida de um software de qualidade[cite: 40, 43, 46].
+**Fundamentos e Lógica de Programação:** Exercícios para solidificar a base em matemática, física e sintaxe de C#.
+
+**Desenvolvimento de APIs & Sistemas Backend:** O núcleo da organização, com projetos para a construção de APIs RESTful, acesso a dados e lógica de negócios.
+
+**Arquiteturas Avançadas & Integração:** Projetos que exploram microsserviços, mensageria e comunicação entre sistemas distribuídos.
+
+**Qualidade, Performance & Segurança:** Foco em testes, otimização de performance, monitoramento e implementação de práticas de segurança essenciais.
+
+**DevOps & Boas Práticas:** Automação de pipelines CI/CD, containerização e ferramentas para garantir o ciclo de vida de um software de qualidade.
 
 ---
 
@@ -44,21 +48,21 @@ Abaixo está uma visão geral dos repositórios planejados para esta organizaç�
 
 | Repositório | Descrição | Principais Ferramentas |
 | :--- | :--- | :--- |
-| [ `math-exercises-csharp` ](https://www.google.com) | [cite_start]Exercícios de conceitos matemáticos implementados em C#, incluindo operações algébricas e cálculos científicos[cite: 4]. | [cite_start]`C#`, `Math.NET Numerics`, `NUnit` [cite: 3] |
-| [ `physics-exercises-csharp` ](https://www.google.com) | [cite_start]Exercícios e simulações de conceitos físicos, como mecânica e termodinâmica, usando C#[cite: 7]. | [cite_start]`C#`, `NUnit`, `Physics.NET` [cite: 6] |
-| [ `syntax-drills-csharp` ](https://www.google.com) | [cite_start]Exercícios práticos para reforçar a sintaxe, estruturas de dados e boas práticas de programação em C#[cite: 10]. | [cite_start]`C#`, `NUnit`, `xUnit`, `MSTest` [cite: 9] |
-| [ `csharp-web-apis` ](https://www.google.com) | [cite_start]Desenvolvimento de APIs RESTful robustas com C# e ASP.NET Core[cite: 13]. | [cite_start]`ASP.NET Core`, `Entity Framework Core`, `Swagger`, `REST APIs` [cite: 12] |
-| [ `csharp-backend-systems` ](https://www.google.com) | [cite_start]Sistemas backend robustos com foco em lógica de negócios e gerenciamento de dados[cite: 16]. | [cite_start]`ASP.NET Core`, `Entity Framework Core`, `Dapper`, `SQL Server` [cite: 15] |
-| [ `csharp-integration-projects` ](https://www.google.com) | [cite_start]Projetos demonstrando integração com serviços externos e mensageria[cite: 19]. | [cite_start]`ASP.NET Core`, `RabbitMQ`, `MassTransit`, `gRPC`, `REST APIs` [cite: 18] |
-| [ `csharp-microservices-architecture` ](https://www.google.com) | [cite_start]Desenvolvimento de aplicações corporativas baseadas em arquitetura de microsserviços com C# .NET[cite: 22]. | [cite_start]`ASP.NET Core`, `Docker`, `Kubernetes`, `Ocelot`, `Consul` [cite: 21] |
-| [ `csharp-security-best-practices` ](https://www.google.com) | [cite_start]Implementação de segurança, autenticação e autorização em APIs e sistemas backend com C#[cite: 25]. | [cite_start]`ASP.NET Core Identity`, `OAuth2`, `JWT`, `Bcrypt` [cite: 24] |
-| [ `csharp-database-connections` ](https://www.google.com) | [cite_start]Gerenciamento de conexões com bancos de dados relacionais e execução de consultas eficientes[cite: 28]. | [cite_start]`Entity Framework Core`, `Dapper`, `SQL Server`, `PostgreSQL` [cite: 27] |
-| [ `csharp-logging-and-monitoring` ](https://www.google.com) | [cite_start]Implementação de logging estruturado e monitoramento de aplicações backend[cite: 31]. | [cite_start]`Serilog`, `NLog`, `ASP.NET Core Logging`, `Application Insights` [cite: 30] |
-| [ `csharp-performance-optimization` ](https://www.google.com) | [cite_start]Técnicas de otimização de desempenho e uso eficiente de recursos em aplicações C#[cite: 34]. | [cite_start]`BenchmarkDotNet`, `Memory Profilers`, `Caching`, `Asynchronous Programming` [cite: 33] |
-| [ `csharp-testing-and-debugging` ](https://www.google.com) | [cite_start]Testes unitários, de integração e ferramentas de depuração para garantir a qualidade do código[cite: 37]. | [cite_start]`xUnit`, `NUnit`, `Moq`, `Visual Studio Debugger` [cite: 36] |
-| [ `csharp-devops-and-ci-cd` ](https://www.google.com) | [cite_start]Pipelines de CI/CD para automação de build, teste e deployment de aplicações .NET[cite: 40]. | [cite_start]`Azure DevOps`, `GitHub Actions`, `Jenkins`, `Docker`, `Kubernetes` [cite: 39] |
-| [ `csharp-command-line-tools` ](https://www.google.com) | [cite_start]Desenvolvimento de ferramentas de linha de comando (CLI) em C#[cite: 43]. | [cite_start]`System.CommandLine`, `Spectre.Console` [cite: 42] |
-| [ `csharp-documentation` ](https://www.google.com) | [cite_start]Geração de documentação para APIs e sistemas backend em C#[cite: 46]. | [cite_start]`Swagger`, `XML Comments`, `DocFX` [cite: 45] |
+| [ `math-exercises-csharp` ](https://www.google.com) | Exercícios de conceitos matemáticos implementados em C#, incluindo operações algébricas e cálculos científicos. | `C#`, `Math.NET Numerics`, `NUnit` |
+| [ `physics-exercises-csharp` ](https://www.google.com) | Exercícios e simulações de conceitos físicos, como mecânica e termodinâmica, usando C#. | `C#`, `NUnit`, `Physics.NET` |
+| [ `syntax-drills-csharp` ](https://www.google.com) | Exercícios práticos para reforçar a sintaxe, estruturas de dados e boas práticas de programação em C#. | `C#`, `NUnit`, `xUnit`, `MSTest` |
+| [ `csharp-web-apis` ](https://www.google.com) | Desenvolvimento de APIs RESTful robustas com C# e ASP.NET Core. | `ASP.NET Core`, `Entity Framework Core`, `Swagger`, `REST APIs` |
+| [ `csharp-backend-systems` ](https://www.google.com) | Sistemas backend robustos com foco em lógica de negócios e gerenciamento de dados. | `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `SQL Server` |
+| [ `csharp-integration-projects` ](https://www.google.com) | Projetos demonstrando integração com serviços externos e mensageria. | `ASP.NET Core`, `RabbitMQ`, `MassTransit`, `gRPC`, `REST APIs` |
+| [ `csharp-microservices-architecture` ](https://www.google.com) | Desenvolvimento de aplicações corporativas baseadas em arquitetura de microsserviços com C# .NET. | `ASP.NET Core`, `Docker`, `Kubernetes`, `Ocelot`, `Consul` |
+| [ `csharp-security-best-practices` ](https://www.google.com) | Implementação de segurança, autenticação e autorização em APIs e sistemas backend com C#. | `ASP.NET Core Identity`, `OAuth2`, `JWT`, `Bcrypt` |
+| [ `csharp-database-connections` ](https://www.google.com) | Gerenciamento de conexões com bancos de dados relacionais e execução de consultas eficientes. | `Entity Framework Core`, `Dapper`, `SQL Server`, `PostgreSQL` |
+| [ `csharp-logging-and-monitoring` ](https://www.google.com) | Implementação de logging estruturado e monitoramento de aplicações backend. | `Serilog`, `NLog`, `ASP.NET Core Logging`, `Application Insights` |
+| [ `csharp-performance-optimization` ](https://www.google.com) | Técnicas de otimização de desempenho e uso eficiente de recursos em aplicações C#. | `BenchmarkDotNet`, `Memory Profilers`, `Caching`, `Asynchronous Programming` |
+| [ `csharp-testing-and-debugging` ](https://www.google.com) | Testes unitários, de integração e ferramentas de depuração para garantir a qualidade do código. | `xUnit`, `NUnit`, `Moq`, `Visual Studio Debugger` |
+| [ `csharp-devops-and-ci-cd` ](https://www.google.com) | Pipelines de CI/CD para automação de build, teste e deployment de aplicações .NET. | `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Docker`, `Kubernetes` |
+| [ `csharp-command-line-tools` ](https://www.google.com) | Desenvolvimento de ferramentas de linha de comando (CLI) em C#. | `System.CommandLine`, `Spectre.Console` |
+| [ `csharp-documentation` ](https://www.google.com) | Geração de documentação para APIs e sistemas backend em C#. | `Swagger`, `XML Comments`, `DocFX` |
 
 ---
 
